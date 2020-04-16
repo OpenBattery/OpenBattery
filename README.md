@@ -7,9 +7,7 @@ Want to compare the battery you created with all the other commerciallly availab
 OpenBattery will provide you all the information and more!
 
 OpenBattery is a high performance open source database for academics and industry working with battery.
-
 The platform is available on Microsoft Azure and users can access it to add data too!
-
 This is a transformational resource to develop and validate machine learning and physics based models for the design, prediction, and optimization of battery performance under a wide range of use cases.
 
 
