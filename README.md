@@ -1,8 +1,7 @@
 # OpenBattery                 <img src="doc/LOGO.png" with="110" height="110">
 
-*Want to find the best battery for your product among all the available in the market?
-
-Want to compare the battery you created with all the other commerciallly available?*
+*Want to find the best battery for your product among all the available in the market?*
+*Want to compare the battery you created with all the other commerciallly available?*
 
 OpenBattery will provide you all the information and more!
 
