@@ -1,4 +1,0 @@
-User: Energy company, research institute and so on.
-Feature: Looking into variables of interests, such as materials, electrolytes, type of battery
-Commercial Value: User can use other user’s approved battery database potentially save money on develop a new one. 
-
