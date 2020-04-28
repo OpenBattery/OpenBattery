@@ -18,3 +18,18 @@ This is a transformational resource to develop and validate machine learning and
 We created our version zero of the schema on SQL Server Management Studio (SSMS) and Azure Data Studio from Microsoft.
 These servers are used for the access, configuration, management, administration and development of all components of Azure SQL database.
 
+A database in SQL Server is made up of a collection of tables that stores a specific set of structured data. A table contains a collection of rows, also referred to as records or tuples, and columns, also referred to as attributes. Each column in the table is designed to store a certain type of information, for example, the type of electrode, electrolyte and separator of the battery.
+
+We called our Database in SSMS/Azure Data Studio "macrobattery_database":
+
+<img src="doc/macrobattery_database.png">
+
+Inside the "macrobattery_database" we created the tables:
+
+<img src="doc/Tables.png">
+
+And inside each tables we created columns containing the specific informations of the tables:
+
+<img src="doc/columns.png">
+
+Tables are database objects that contain all the data in a database. In tables, data is logically organized in a row-and-column format similar to a spreadsheet. Each row represents a unique record, and each column represents a field in the record. 
