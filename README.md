@@ -13,3 +13,8 @@ This is a transformational resource to develop and validate machine learning and
 
 <img src="doc/Gantt_3.png">
 
+**SQL SERVER**
+
+We created our version zero of the schema on SQL Server Management Studio (SSMS) and Azure Data Studio from Microsoft.
+These servers are used for the access, configuration, management, administration and development of all components of Azure SQL database.
+
