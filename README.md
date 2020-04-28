@@ -30,6 +30,8 @@ Inside the "macrobattery_database" we created the tables:
 
 And inside each tables we created columns containing the specific informations of the tables:
 
+<img src="doc/cell_columns.png">
+
 <img src="doc/columns.png">
 
 Tables are database objects that contain all the data in a database. In tables, data is logically organized in a row-and-column format similar to a spreadsheet. Each row represents a unique record, and each column represents a field in the record. 
