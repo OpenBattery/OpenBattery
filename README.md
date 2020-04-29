@@ -39,3 +39,5 @@ And inside each tables we created columns containing the specific informations o
 <img src="doc/columns.png">
 
 Tables are database objects that contain all the data in a database. In tables, data is logically organized in a row-and-column format similar to a spreadsheet. Each row represents a unique record, and each column represents a field in the record. 
+
+***N.B*** : We do not upload the data given from Schwartz group because the repo is public and they haven't been published yet.
