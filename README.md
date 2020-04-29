@@ -11,7 +11,7 @@ This is a transformational resource to develop and validate machine learning and
 
 **Gantt Chart**
 
-<img src="doc/Gantt_3.png">
+<img src="doc/29_04_Gantt.png">
 
 **SQL SERVER**
 
