@@ -17,18 +17,18 @@ This is a transformational resource to develop and validate machine learning and
 
 Relational databases are very useful when we want to manage structured data via schema, constraints and relationship.
 
+Structured Query Language (SQL) is a standard language for storing, manipulating and retrieving data in databases.
+
+A database in SQL Server is made up of a collection of tables that stores a specific set of structured data. A table contains a collection of rows, also referred to as records or tuples, and columns, also referred to as attributes. Each column in the table is designed to store a certain type of information, for example, the type of electrode, electrolyte and separator of a battery.
+
 We created our version zero of the schema on SQL Server Management Studio (SSMS) and Azure Data Studio from Microsoft.
 These servers are used for the access, configuration, management, administration and development of all components of Azure SQL database.
 
-SQL is a standard language for storing, manipulating and retrieving data in databases.
-
-A database in SQL Server is made up of a collection of tables that stores a specific set of structured data. A table contains a collection of rows, also referred to as records or tuples, and columns, also referred to as attributes. Each column in the table is designed to store a certain type of information, for example, the type of electrode, electrolyte and separator of the battery.
-
-We called our Database in SSMS/Azure Data Studio "macrobattery_database":
+We called our SQL Server in SSMS/Azure Data Studio *"macrobattery-2020.database.windows.net"* and our version 0 schema *"Battery-Database-v0"*:
 
 <img src="doc/macrobattery_database.png">
 
-Inside the "macrobattery_database" we created the tables:
+Inside the *"Battery-Database-v0"* we created the tables:
 
 <img src="doc/Tables.png">
 
