@@ -13,6 +13,13 @@ This is a transformational resource to develop and validate machine learning and
 
 <img src="doc/05_04_Gantt.png">
 
+
+**PROBLEMS**
+- Figuring out how to put the Stanford and MIT battery data inside our database on Azure in a fast and efficient way
+- Understanding how much storage we need for the data (do we wanna use also Schwartz group data?)
+- Estimating the cost of the whole process to understand which subscription to use
+- Creating the Web App through Azure
+
 **SQL SERVER**
 
 Relational databases are very useful when we want to manage structured data via schema, constraints and relationship.
@@ -41,3 +48,7 @@ And inside each tables we created columns containing the specific informations o
 Tables are database objects that contain all the data in a database. In tables, data is logically organized in a row-and-column format similar to a spreadsheet. Each row represents a unique record, and each column represents a field in the record. 
 
 ***N.B*** : We do not upload the data given from Schwartz group because the repo is public and they haven't been published yet.
+
+**Azure Web App**
+
+We want to create a User interface design Webpage with the relational database created on Azure. To do that we can use the function of *"Web App"* in the Azure cloud.
