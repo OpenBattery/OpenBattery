@@ -55,4 +55,4 @@ We want to create a User interface design Webpage with the relational database c
 
 **Cost Estimation**
 
-To estimate the cost of our Azure project, we used the <a href="https://azure.microsoft.com/it-it/pricing/calculator/"></Azure Price Calculator>
+To estimate the cost of our Azure project, we used the <a href="https://azure.microsoft.com/it-it/pricing/calculator/">Azure Price Calculator
