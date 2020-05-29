@@ -52,3 +52,7 @@ Tables are database objects that contain all the data in a database. In tables, 
 **Azure Web App**
 
 We want to create a User interface design Webpage with the relational database created on Azure. To do that we can use the function of *"Web App"* in the Azure cloud.
+
+**Cost Estimation**
+
+To estimate the cost of our Azure project, we used the <a href="https://azure.microsoft.com/it-it/pricing/calculator/">text of the link</Azure Price Calculator>
