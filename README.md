@@ -60,3 +60,5 @@ To estimate the cost of our Azure project, we used the <a href="https://azure.mi
 Thanks to this service, we were able to select the Azure products that we needed (Azure SQL Database, DataFactory, Storage account and Web app service). When we selected a product, we were able to select the specific features we needed and see the cost of the product changing. At the end, we exported the whole price calculation in an excel file which summarized the cost of our products selection:
 
 <img src="doc/cost_prediction.png">
+
+It is very important to perform the cost estimation only when you have a clear idea of what you need for your project to succeed. It is important to select the products you need and start with the lower cost and lower performance features. Then, if you realize that you need more storage or usage time, you can always switch to a higher cost plan.  
