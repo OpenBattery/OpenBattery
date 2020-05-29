@@ -11,7 +11,7 @@ This is a transformational resource to develop and validate machine learning and
 
 **Gantt Chart**
 
-<img src="doc/05_20_GANTT.png">
+<img src="doc/05_27_Gantt.png">
 
 
 **PROBLEMS**
@@ -52,3 +52,9 @@ Tables are database objects that contain all the data in a database. In tables, 
 **Azure Web App**
 
 We want to create a User interface design Webpage with the relational database created on Azure. To do that we can use the function of *"Web App"* in the Azure cloud.
+
+**Cost Estimation**
+
+To estimate the cost of our Azure project, we used the <a href="https://azure.microsoft.com/it-it/pricing/calculator/">Azure Price Calculator .
+Thanks to this service, we were able to select the Azure products that we needed (Azure SQL Database, DataFactory, Storage account and Web app service). When we selected a product, we were able to select the specific features we needed and see the cost of the product changing. At the end, we exported the whole price calculation in an excel file which summarized the cost of our products selection:
+  
