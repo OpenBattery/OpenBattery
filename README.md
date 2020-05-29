@@ -57,4 +57,4 @@ We want to create a User interface design Webpage with the relational database c
 
 To estimate the cost of our Azure project, we used the <a href="https://azure.microsoft.com/it-it/pricing/calculator/">Azure Price Calculator .
 Thanks to this service, we were able to select the Azure products that we needed (Azure SQL Database, DataFactory, Storage account and Web app service). When we selected a product, we were able to select the specific features we needed and see the cost of the product changing. At the end, we exported the whole price calculation in an excel file which summarized the cost of our products selection:
-  
+
