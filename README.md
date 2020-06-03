@@ -11,7 +11,7 @@ This is a transformational resource to develop and validate machine learning and
 
 **Gantt Chart**
 
-<img src="doc/05_27_Gantt.png">
+<img src="doc/06_03_GANTT.png">
 
 
 **PROBLEMS**
