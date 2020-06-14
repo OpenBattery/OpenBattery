@@ -62,3 +62,9 @@ Thanks to this service, we were able to select the Azure products that we needed
 <img src="doc/cost_prediction.png">
 
 It is very important to perform the cost estimation only when you have a clear idea of what you need for your project to succeed. It is important to select the products you need and start with the lower cost and lower performance features. Then, if you realize that you need more storage or usage time, you can always switch to a higher cost plan.  
+
+
+Microsoft Azure is the one of biggest cloud service provider worldwide created and operated by Microsoft for building, testing, deploying and managing applications services. 
+
+<img src="doc/AzureCoreArch.png">
+
