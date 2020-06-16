@@ -14,12 +14,6 @@ This is a transformational resource to develop and validate machine learning and
 <img src="doc/06_03_GANTT.png">
 
 
-**PROBLEMS**
-- Figuring out how to put the Stanford and MIT battery data inside our database on Azure in a fast and efficient way
-- Understanding how much storage we need for the data (do we wanna use also Schwartz group data?)
-- Estimating the cost of the whole process to understand which subscription to use
-- Creating the Web App through Azure
-
 **SQL SERVER**
 
 Relational databases are very useful when we want to manage structured data via schema, constraints and relationship.
