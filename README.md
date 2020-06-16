@@ -49,6 +49,11 @@ Tables are database objects that contain all the data in a database. In tables, 
 
 ***N.B*** : We do not upload the data given from Schwartz group because the repo is public and they haven't been published yet.
 
+**Azure Data Factory**
+
+To connect the dataset with the SQL Azure Database we the Data Factory service on Azure.
+Thanks to this service we were able to create a pipeline between our Azure storage account and the SQL Database.
+
 **Azure Web App**
 
 We want to create a User interface design Webpage with the relational database created on Azure. To do that we can use the function of *"Web App"* in the Azure cloud.
