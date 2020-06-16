@@ -1,5 +1,11 @@
 # OpenBattery                 <img src="doc/LOGO_2.png" with="110" height="110">
 
+
+
+<img src="doc/POSTER_TEMPLATE.png">
+
+
+
 *Want to find the best battery for your product among all the available in the market?*                                       
 *Want to compare the battery you created with all the other commerciallly available?*
 
