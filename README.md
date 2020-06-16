@@ -54,6 +54,54 @@ Tables are database objects that contain all the data in a database. In tables, 
 To connect the dataset with the SQL Azure Database we the Data Factory service on Azure.
 Thanks to this service we were able to create a pipeline between our Azure storage account and the SQL Database.
 
+We used the option of "Copy Data" inside  our "UWCEIMacroBattery" DataFactory:
+
+<img src="doc/DataFactory/firststep_DF.png" with="500" height="500">
+
+We can choose to run the operation regularly, selecting an end date or forever:
+
+<img src="doc/DataFactory/secondstep_DF.png" with="500" height="500">
+
+We connected our Source dataset to our storage account and we created the connection calling it "LinkedService2":
+
+<img src="doc/DataFactory/sourcedataset.png" with="500" height="400">
+
+<img src="doc/DataFactory/thirdstep_DF.png" with="500" height="500">
+
+From the Source dataset we choose the csv file that we want to transfer inside the table of the SQL Database:
+
+<img src="doc/DataFactory/fouthstep_DF.png" with="500" height="500">
+
+The Data Factory software detect the columns and data inside the csv file:
+
+<img src="doc/DataFactory/fifthstep_DF.png" with="500" height="500">
+
+Then, we selected our destination or "Sink" to be our SQL Azure Database and we created a connected service that we called "LinkedService3":
+
+<img src="doc/DataFactory/sink.png" with="500" height="400">
+
+<img src="doc/DataFactory/sixthstep_DF.png" with="500" height="500">
+
+Then, we selected the table inside the SQL Database in which we want to import our data:
+
+<img src="doc/DataFactory/seventhstep_DF.png" with="500" height="500">
+
+The Datafactory shows the column mapping and here you are able to check if the connections are correct and modify them:
+
+<img src="doc/DataFactory/eightstep_DF.png" with="500" height="400">
+
+You have the option then to decide whether to detect fault in the data stream:
+
+<img src="doc/DataFactory/ninethstep_DF.png" with="500" height="400">
+
+After those selection, we were able to run the data transfer to the SQL Database tables:
+
+<img src="doc/DataFactory/tenthstep_DF.png" with="500" height="400">
+
+
+<img src="doc/DataFactory/eleventhstep_DF.png" with="500" height="400">
+
+
 **Azure Web App**
 
 We want to create a User interface design Webpage with the relational database created on Azure. To do that we can use the function of *"Web App"* in the Azure cloud.
