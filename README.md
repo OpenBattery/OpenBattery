@@ -185,8 +185,12 @@ AI + Machine Learning
 •	Microsoft Azure Machine Learning Studio is a collaborative, drag-and-drop tool ca nuse to build, test, and deploy predictive analytics solutions on your data. Machine Learning Studio publishes models as web services that can easily be consumed by custom apps or BI tools such as Excel. 
 
 The last core Azure Service I will introduce is Management
+
 •	Log data collected by Azure Monitor is stored in a Log Analytics workspace, which is based on Azure Data Explorer. It collects telemetry from a variety of source and uses the Kusto query language used by Data Explorer to retrieve and analyze data. 
+
 •	Azure Cost Management is a native Azure cost management solution. It help you to analyze costs, create and manage budgets, export data, and review and act on optimization recommendations to save money. 
+
 •	Azure Automation delivers a cloud-based automation and configuration service that provides consistent management across your Azure and non-Azure environments. It consists of process automation, update managements, and configuration features. 
+
 •	Metrics are available for interactive analysis in the azure portal with Metrics Explorer. They can be added to an Azure dashboard for visualization in combination with other data and used for near-real time alerting. Read more about Azure Monitor. Metrics including their sources of data in Metrics in Azure Monitors. 
 
