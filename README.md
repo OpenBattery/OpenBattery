@@ -156,33 +156,55 @@ Meanwhile, we could create the website using our virtual machine IP address usin
 <img src="doc/Putty.png">
 <img src="doc/Web.png">
 
+
 Another Azure Service is Networking, in which contains 5 core azure services, Virtual Networks, Load Balancers, Application Gateway, DNS Zones, and CDN Profiles. In specific:
+
 •	Azure Virtual Network (VNet) is a representation of your own network in the cloud. It’s a logical isolation of the Azure cloud dedicated to your subscription. Each VNet you create has its own CIDR block, and can be linked to other VNets and on-premises networks as long as the CIDR blocks do not overlap. 
+
 •	The Load Balancers is a layer-4 (TCP, UDP) load balancer that provides high availability by distributing incoming traffic among healthy VMs. 
+
 •	The Application Gateway is a wen traffic load balancer that enables you to manage traffic to your web applications. This type of routing is known as application layer (OSI layer 7) load balancing. 
-•	DNS Zone is a data resource that contains the DNS records for a domain name. You can use Azure DNS to a DNS zone and manage the DNS records for a domain in Azure. Lastly, 
+
+•	DNS Zone is a data resource that contains the DNS records for a domain name. You can use Azure DNS to a DNS zone and manage the DNS records for a domain in Azure.  
 •	Azure Content Delivery Network (CDN) is a global CDN solution for delivering high-bandwidth content. With Azure CDN, you can cache static objects loaded from Azure blob storage, a web application, or any publicly accessible web server, by using the closest point of presence (POP) server. 
 
+
 The storage service includes blob storage, file storage, tables storage, queues storage, data lake storage, and data box storage.
+
 •	Azure blob storage is a service for storing large amount of unstructured object data, such as binary data. Common uses of blob storage include: Serving images of documents directly to a browser. 
+
 •	Storing files for distributed access. Streaming video and audio. Azure files offers fully managed file shares in the cloud are accessible via the industry standard Server Message Block (SMB) protocol. 
+
 •	Azure file shares can mount concurrently by cloud or on-premises deployments of Windows, Linux, and MacOS. Azure Table Storage stores large amount of structured data. The service is a NoSQL datastore which accept the authenticated calls from inside and outside the Azure cloud. 
+
 •	Azure tables are ideal for storing structured, non-relational data. Azure Queue storage is a service for storing large amount of message that can be accessed from anywhere in the world via authenticated calls using HTTP or HTTPS. A single queues message can be up to 64 KB in size, and a queen can contain millions of messages, up to the total capacity limit of storage account. 
+
 •	Azure Data Lake Storage is an enterprise-wide hyperscale repository for big data analytics workloads. Azure Data Lake enables you to capture data of any size, type, and ingestion speed on one single place for operational and exploratory analytics. 
+
 •	The Data Box can move stored or in-flight to Azure quickly and cost-effectively: Data Box offline devices easily move data to Azure when busy networks are not an option. Data Box online appliances transfer data to and form Azure over the network. 
+
 
 Azure also have a core service is Database + Analytics. 
 
-•	Azure SQL database is an intelligent, scalable. Cloud database service that provides the broadest SQL Server engine compatibility and up to 212% return on investment . 
+•	Azure SQL database is an intelligent, scalable. Cloud database service that provides the broadest SQL Server engine compatibility and up to 212% return on investment.
+
 •	Azure Cosmos DB is a fully managed database service with turnkey global disturbution and transparent multi-master replication. Get single-digit millisecond read and write latencies at the 99th percentile, automatic and elastic scaling of throughput and storage. 
+
 •	Azure Data service is a fully managed service for composing data storage, processing, and movement service into streamlined, scalable, and reliable data production pipelines.  
+
 •	Event hubs is a fully managed, real-time data ingestion service that is simple, trusted and scalable. Stream millions of events per second from any source to build dynamic data pipelines and immediately respond to business challenges. 
+
 •	Azure Data lake analytics is a distributed, cloud-based data processing architecture offered by Microsoft in the Azure cloud. It’s based on YARN, the same as the open-source Hadoop platform. It pairs with Azure Data Lake Store, a cloud-basedstorage platform designed for Big Data analytics. 
 
+
 AI + Machine Learning 
+
 •	Azure Cognitive Service are APIs, SDKs, and services available to help developers build intelligent applications without having direct AI or data science skills or knowledge. Azure Cognitive Service enable developers to easily add cognitive features into their applications. 
+
 •	Azure Bot Services is Microsoft’s artificial intelligence (AI) chatbot offered as a service on the Azure cloud service marketplace. Azure Bot Service offers the ability to add intelligent agents that ate capable of conversation without having to commit the resources to develop one’s own AI.
+
 •	Microsoft Azure Machine Learning Studio is a collaborative, drag-and-drop tool ca nuse to build, test, and deploy predictive analytics solutions on your data. Machine Learning Studio publishes models as web services that can easily be consumed by custom apps or BI tools such as Excel. 
+
 
 The last core Azure Service I will introduce is Management
 
