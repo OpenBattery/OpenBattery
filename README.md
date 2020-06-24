@@ -2,7 +2,7 @@
 
 
 
-<img src="doc/POSTER_TEMPLATE.png">
+<img src="doc/OPENBATTERY_POSTER.png">
 
 
 
@@ -17,7 +17,7 @@ This is a transformational resource to develop and validate machine learning and
 
 **Gantt Chart**
 
-<img src="doc/06_03_GANTT.png">
+<img src="doc/FINAL_GANTT.png">
 
 
 **SQL SERVER**
