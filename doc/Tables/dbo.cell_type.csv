@@ -1,0 +1,7 @@
+﻿id;name ;created_date;vendor;vendor_batch;configuration;electrolyte_id;positive_electrode_id;negative_electrode_id;separator_id
+1;INR1865020R;15June2020;SAMSUNG;7B111;Cylindrical;1;1;2;1
+2;A123;16June2020;A123SYSTEMS;26650;Cylindrical;1;3;4;
+3;CS2;16June2020;FARNELL;;Prismatic;1;1;2;
+4;CX2;16June2020;;;Prismatic;;1;2;
+5;PL;16June2020;;;Pouch;;1;2;
+6;K2;16June2020;K2;;Other;2;5;2;
